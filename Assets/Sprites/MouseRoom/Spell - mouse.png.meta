@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 6dbfbc36e18caef44bc7045bf228750e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5050203199398345477
+    second: Spell - mouse_0
+  - first:
+      213: 6159583929491895787
+    second: Spell - mouse_1
+  - first:
+      213: 5767400413103407329
+    second: Spell - mouse_2
+  - first:
+      213: 606158293016350435
+    second: Spell - mouse_3
+  - first:
+      213: -2685035459870191528
+    second: Spell - mouse_4
+  - first:
+      213: -2735086038369138512
+    second: Spell - mouse_5
+  - first:
+      213: 4362868823868628538
+    second: Spell - mouse_6
+  - first:
+      213: 4912251117825625833
+    second: Spell - mouse_7
+  - first:
+      213: -4913105311366070325
+    second: Spell - mouse_8
+  - first:
+      213: 9147289790101687826
+    second: Spell - mouse_9
+  - first:
+      213: 5857852960390859370
+    second: Spell - mouse_10
+  - first:
+      213: 2451015819186963922
+    second: Spell - mouse_11
+  - first:
+      213: 1497565410778241698
+    second: Spell - mouse_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell - mouse_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 953
+        width: 317
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bfdaf7d0de51640800000000000000
+      internalID: 5050203199398345477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 980
+        width: 169
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b191f2fc3b7550800000000000000
+      internalID: 6159583929491895787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 976
+        width: 138
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e048746e1ce90050800000000000000
+      internalID: 5767400413103407329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 934
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee85e481c1896800800000000000000
+      internalID: 606158293016350435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_4
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 960
+        width: 179
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8501c15a976dcbad0800000000000000
+      internalID: -2685035459870191528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_5
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1217
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b880ec3db50b0ad0800000000000000
+      internalID: -2735086038369138512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_6
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 955
+        width: 292
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed05074160c8c30800000000000000
+      internalID: 4362868823868628538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_7
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 938
+        width: 227
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee038d8d52db2440800000000000000
+      internalID: 4912251117825625833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_8
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 943
+        width: 250
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb0f300c421dbb0800000000000000
+      internalID: -4913105311366070325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_9
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 910
+        width: 261
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e81948993b1fe70800000000000000
+      internalID: 9147289790101687826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_10
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 905
+        width: 198
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a41923b364b4150800000000000000
+      internalID: 5857852960390859370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_11
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1128
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d58089c6e1c30220800000000000000
+      internalID: 2451015819186963922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - mouse_12
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1156
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa59518ecb68c410800000000000000
+      internalID: 1497565410778241698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell - mouse_0: 5050203199398345477
+      Spell - mouse_1: 6159583929491895787
+      Spell - mouse_10: 5857852960390859370
+      Spell - mouse_11: 2451015819186963922
+      Spell - mouse_12: 1497565410778241698
+      Spell - mouse_2: 5767400413103407329
+      Spell - mouse_3: 606158293016350435
+      Spell - mouse_4: -2685035459870191528
+      Spell - mouse_5: -2735086038369138512
+      Spell - mouse_6: 4362868823868628538
+      Spell - mouse_7: 4912251117825625833
+      Spell - mouse_8: -4913105311366070325
+      Spell - mouse_9: 9147289790101687826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

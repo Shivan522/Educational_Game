@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2bf42dd137feb19458d0d9385d5a46c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7222263412114566442
+    second: Spell-pigeon_0
+  - first:
+      213: -8715498611318695107
+    second: Spell-pigeon_1
+  - first:
+      213: -5141496348288951921
+    second: Spell-pigeon_2
+  - first:
+      213: 5699401895686666989
+    second: Spell-pigeon_3
+  - first:
+      213: -1037715642948440500
+    second: Spell-pigeon_4
+  - first:
+      213: -8912643758453310022
+    second: Spell-pigeon_5
+  - first:
+      213: 6309510024596020503
+    second: Spell-pigeon_6
+  - first:
+      213: -3312268454159278721
+    second: Spell-pigeon_7
+  - first:
+      213: -1254423860207592110
+    second: Spell-pigeon_8
+  - first:
+      213: -5581823420372929673
+    second: Spell-pigeon_9
+  - first:
+      213: 2033729251757439387
+    second: Spell-pigeon_10
+  - first:
+      213: -7431689727339656919
+    second: Spell-pigeon_11
+  - first:
+      213: 2605333831900503971
+    second: Spell-pigeon_12
+  - first:
+      213: -6046764343623152949
+    second: Spell-pigeon_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell-pigeon_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1111
+        width: 297
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d25c9e11bd55cb90800000000000000
+      internalID: -7222263412114566442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1136
+        width: 159
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b50ff80345c0780800000000000000
+      internalID: -8715498611318695107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1132
+        width: 130
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d442ef4cb5a8b0800000000000000
+      internalID: -5141496348288951921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1092
+        width: 128
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea7790d3d7581f40800000000000000
+      internalID: 5699401895686666989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1117
+        width: 168
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e213cee1b4991f0800000000000000
+      internalID: -1037715642948440500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1357
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb9cf09bdef4480800000000000000
+      internalID: -8912643758453310022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_6
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1099
+        width: 164
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ddfca20f1ef8750800000000000000
+      internalID: 6309510024596020503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1117
+        width: 54
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9a1dd3657802d0800000000000000
+      internalID: -3312268454159278721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_8
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1116
+        width: 146
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5d863524679ee0800000000000000
+      internalID: -1254423860207592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_9
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1084
+        width: 164
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77337b54c216982b0800000000000000
+      internalID: -5581823420372929673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_10
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1064
+        width: 438
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b254baf1493c10800000000000000
+      internalID: 2033729251757439387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1270
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929000951955dd890800000000000000
+      internalID: -7431689727339656919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_12
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1274
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9cb30151082420800000000000000
+      internalID: 2605333831900503971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-pigeon_13
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 14
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca08d9ddd3951ca0800000000000000
+      internalID: -6046764343623152949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell-pigeon_0: -7222263412114566442
+      Spell-pigeon_1: -8715498611318695107
+      Spell-pigeon_10: 2033729251757439387
+      Spell-pigeon_11: -7431689727339656919
+      Spell-pigeon_12: 2605333831900503971
+      Spell-pigeon_13: -6046764343623152949
+      Spell-pigeon_2: -5141496348288951921
+      Spell-pigeon_3: 5699401895686666989
+      Spell-pigeon_4: -1037715642948440500
+      Spell-pigeon_5: -8912643758453310022
+      Spell-pigeon_6: 6309510024596020503
+      Spell-pigeon_7: -3312268454159278721
+      Spell-pigeon_8: -1254423860207592110
+      Spell-pigeon_9: -5581823420372929673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 1a23fffea24acf7408ac7dfcf2e85dd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 737788626098199275
+    second: Spell-tiger_0
+  - first:
+      213: 4917145888913593587
+    second: Spell-tiger_1
+  - first:
+      213: -944357260905152088
+    second: Spell-tiger_2
+  - first:
+      213: 3130531485551389672
+    second: Spell-tiger_3
+  - first:
+      213: -6417679469680143087
+    second: Spell-tiger_4
+  - first:
+      213: -550624520352525705
+    second: Spell-tiger_5
+  - first:
+      213: -2300433614519791900
+    second: Spell-tiger_6
+  - first:
+      213: 9217151890221720444
+    second: Spell-tiger_7
+  - first:
+      213: -3267728527320106345
+    second: Spell-tiger_8
+  - first:
+      213: -5076452681120075153
+    second: Spell-tiger_9
+  - first:
+      213: 2804374168629751656
+    second: Spell-tiger_10
+  - first:
+      213: -658856023085391521
+    second: Spell-tiger_11
+  - first:
+      213: 4137751470586162121
+    second: Spell-tiger_12
+  - first:
+      213: 8451738547557867598
+    second: Spell-tiger_13
+  - first:
+      213: 6975111986619045552
+    second: Spell-tiger_14
+  - first:
+      213: 2151494496608070086
+    second: Spell-tiger_15
+  - first:
+      213: -341938620333841330
+    second: Spell-tiger_16
+  - first:
+      213: -5816644935535584808
+    second: Spell-tiger_17
+  - first:
+      213: 726686915898818432
+    second: Spell-tiger_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell-tiger_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1021
+        width: 273
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea18e1b8d62d3a00800000000000000
+      internalID: 737788626098199275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1044
+        width: 146
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4977142263d3440800000000000000
+      internalID: 4917145888913593587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1040
+        width: 119
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a100ba1318f4e2f0800000000000000
+      internalID: -944357260905152088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1004
+        width: 117
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb6772ccc1e17b20800000000000000
+      internalID: 3130531485551389672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1026
+        width: 154
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115d56f4682dfe6a0800000000000000
+      internalID: -6417679469680143087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_5
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1247
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77294c38ae9cb58f0800000000000000
+      internalID: -550624520352525705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1040
+        width: 219
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0e29d0d73310e0800000000000000
+      internalID: -2300433614519791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1004
+        width: 102
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736c714fc6e9ef70800000000000000
+      internalID: 9217151890221720444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1039
+        width: 170
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79abca2b732b6a2d0800000000000000
+      internalID: -3267728527320106345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_9
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1010
+        width: 158
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6232c6ce21dc89b0800000000000000
+      internalID: -5076452681120075153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_10
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1013
+        width: 242
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f257ab2732be620800000000000000
+      internalID: 2804374168629751656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1167
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f516ed110f54bd6f0800000000000000
+      internalID: -658856023085391521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1171
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb632d2a0f3c6930800000000000000
+      internalID: 4137751470586162121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_13
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a9a50e6b9a4570800000000000000
+      internalID: 8451738547557867598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_14
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 25
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b65ff665639cc060800000000000000
+      internalID: 6975111986619045552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_15
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 47
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9288678d4abdd10800000000000000
+      internalID: 2151494496608070086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 42
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44a300f2a0314bf0800000000000000
+      internalID: -341938620333841330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_17
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 14
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d993d0cf30274fa0800000000000000
+      internalID: -5816644935535584808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-tiger_18
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb21d56e5b51a00800000000000000
+      internalID: 726686915898818432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell-tiger_0: 737788626098199275
+      Spell-tiger_1: 4917145888913593587
+      Spell-tiger_10: 2804374168629751656
+      Spell-tiger_11: -658856023085391521
+      Spell-tiger_12: 4137751470586162121
+      Spell-tiger_13: 8451738547557867598
+      Spell-tiger_14: 6975111986619045552
+      Spell-tiger_15: 2151494496608070086
+      Spell-tiger_16: -341938620333841330
+      Spell-tiger_17: -5816644935535584808
+      Spell-tiger_18: 726686915898818432
+      Spell-tiger_2: -944357260905152088
+      Spell-tiger_3: 3130531485551389672
+      Spell-tiger_4: -6417679469680143087
+      Spell-tiger_5: -550624520352525705
+      Spell-tiger_6: -2300433614519791900
+      Spell-tiger_7: 9217151890221720444
+      Spell-tiger_8: -3267728527320106345
+      Spell-tiger_9: -5076452681120075153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

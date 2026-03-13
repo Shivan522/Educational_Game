@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 0a9445112477d6744a708350af36b839
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3288660907929743261
+    second: Spell - monkey_0
+  - first:
+      213: 5064691865438254679
+    second: Spell - monkey_1
+  - first:
+      213: -7118256257063080150
+    second: Spell - monkey_2
+  - first:
+      213: 5325844979269677894
+    second: Spell - monkey_3
+  - first:
+      213: 5042349205401259521
+    second: Spell - monkey_4
+  - first:
+      213: 7255903631375360233
+    second: Spell - monkey_5
+  - first:
+      213: -7388859816300287400
+    second: Spell - monkey_6
+  - first:
+      213: 4491770721179153365
+    second: Spell - monkey_7
+  - first:
+      213: -2001451495011597929
+    second: Spell - monkey_8
+  - first:
+      213: -4828267125438797900
+    second: Spell - monkey_9
+  - first:
+      213: -6600936960155201287
+    second: Spell - monkey_10
+  - first:
+      213: 2373643313110996900
+    second: Spell - monkey_11
+  - first:
+      213: 3702064851218365470
+    second: Spell - monkey_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell - monkey_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1021
+        width: 273
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fadd3fbaba3ad20800000000000000
+      internalID: 3288660907929743261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1044
+        width: 146
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f140fa66694640800000000000000
+      internalID: 5064691865438254679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1040
+        width: 119
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fad89f5afd63d90800000000000000
+      internalID: -7118256257063080150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1004
+        width: 117
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ba268ac339e940800000000000000
+      internalID: 5325844979269677894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1026
+        width: 154
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e4a6503e50af540800000000000000
+      internalID: 5042349205401259521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_5
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1247
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e06898c8e522b460800000000000000
+      internalID: 7255903631375360233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_6
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1008
+        width: 288
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a634a152f757990800000000000000
+      internalID: -7388859816300287400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1010
+        width: 188
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d332682ca9f55e30800000000000000
+      internalID: 4491770721179153365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_8
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 987
+        width: 220
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c8ac287a6934e0800000000000000
+      internalID: -2001451495011597929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_9
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 965
+        width: 238
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7268371ac8efcb0800000000000000
+      internalID: -4828267125438797900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_10
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 989
+        width: 196
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d339dec2c464a0800000000000000
+      internalID: -6600936960155201287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_11
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1001
+        width: 221
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a756756400e0f020800000000000000
+      internalID: 2373643313110996900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell - monkey_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1171
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c74582e50606330800000000000000
+      internalID: 3702064851218365470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell - monkey_0: 3288660907929743261
+      Spell - monkey_1: 5064691865438254679
+      Spell - monkey_10: -6600936960155201287
+      Spell - monkey_11: 2373643313110996900
+      Spell - monkey_12: 3702064851218365470
+      Spell - monkey_2: -7118256257063080150
+      Spell - monkey_3: 5325844979269677894
+      Spell - monkey_4: 5042349205401259521
+      Spell - monkey_5: 7255903631375360233
+      Spell - monkey_6: -7388859816300287400
+      Spell - monkey_7: 4491770721179153365
+      Spell - monkey_8: -2001451495011597929
+      Spell - monkey_9: -4828267125438797900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

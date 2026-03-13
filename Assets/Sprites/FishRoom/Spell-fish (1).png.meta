@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: f0567367537589845a6698781abd3e21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8741639973300786548
+    second: Spell-fish (1)_0
+  - first:
+      213: 6127722872079380321
+    second: Spell-fish (1)_1
+  - first:
+      213: 454777649658631074
+    second: Spell-fish (1)_2
+  - first:
+      213: -8554573860054552035
+    second: Spell-fish (1)_3
+  - first:
+      213: 2308365210758529934
+    second: Spell-fish (1)_4
+  - first:
+      213: 5863403105273171204
+    second: Spell-fish (1)_5
+  - first:
+      213: 8861979553989980433
+    second: Spell-fish (1)_6
+  - first:
+      213: -3496575133493280240
+    second: Spell-fish (1)_7
+  - first:
+      213: 3554308413622436664
+    second: Spell-fish (1)_8
+  - first:
+      213: 3198356842930621500
+    second: Spell-fish (1)_9
+  - first:
+      213: 6054120524483238807
+    second: Spell-fish (1)_10
+  - first:
+      213: 5549434156557298090
+    second: Spell-fish (1)_11
+  - first:
+      213: -2684602800314603344
+    second: Spell-fish (1)_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell-fish (1)_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1111
+        width: 297
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475d2f29d3b805970800000000000000
+      internalID: 8741639973300786548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1136
+        width: 159
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe3507c7b0a0550800000000000000
+      internalID: 6127722872079380321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1132
+        width: 130
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a390b3ecd1bf4600800000000000000
+      internalID: 454777649658631074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1092
+        width: 128
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d123b9af56c084980800000000000000
+      internalID: -8554573860054552035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1117
+        width: 168
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c12fcde5f80020800000000000000
+      internalID: 2308365210758529934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1357
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dcab00f0efe5150800000000000000
+      internalID: 5863403105273171204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1085
+        width: 191
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f85a93731cfa70800000000000000
+      internalID: 8861979553989980433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1094
+        width: 88
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0124ba5117ba97fc0800000000000000
+      internalID: -3496575133493280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1104
+        width: 247
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c520bba0735130800000000000000
+      internalID: 3554308413622436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1077
+        width: 279
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc1df5a98d26c20800000000000000
+      internalID: 3198356842930621500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1270
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b99397a8e840450800000000000000
+      internalID: 6054120524483238807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1274
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9640696fc830d40800000000000000
+      internalID: 5549434156557298090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell-fish (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 14
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8aa3c0aff5ebad0800000000000000
+      internalID: -2684602800314603344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell-fish (1)_0: 8741639973300786548
+      Spell-fish (1)_1: 6127722872079380321
+      Spell-fish (1)_10: 6054120524483238807
+      Spell-fish (1)_11: 5549434156557298090
+      Spell-fish (1)_12: -2684602800314603344
+      Spell-fish (1)_2: 454777649658631074
+      Spell-fish (1)_3: -8554573860054552035
+      Spell-fish (1)_4: 2308365210758529934
+      Spell-fish (1)_5: 5863403105273171204
+      Spell-fish (1)_6: 8861979553989980433
+      Spell-fish (1)_7: -3496575133493280240
+      Spell-fish (1)_8: 3554308413622436664
+      Spell-fish (1)_9: 3198356842930621500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
